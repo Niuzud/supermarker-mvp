@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\bin\Debug\net6.0-windows\Supermarker-mvp.exe
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\bin\Debug\net6.0-windows\Supermarker-mvp.deps.json
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\bin\Debug\net6.0-windows\Supermarker-mvp.runtimeconfig.json
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\bin\Debug\net6.0-windows\Supermarker-mvp.dll
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\bin\Debug\net6.0-windows\Supermarker-mvp.pdb
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.dll
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\refint\Supermarker-mvp.dll
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.pdb
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Supermarketmvp\Supermarker-mvp\obj\Debug\net6.0-windows\ref\Supermarker-mvp.dll
