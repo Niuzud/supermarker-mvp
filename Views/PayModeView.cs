@@ -72,12 +72,6 @@ namespace Supermarket_mvp.Views
         {
 
         }
-
-        public void SetPayModeListBildingSource(Binding payModeList)
-        {
-            DgPayMode.DataSource = payModeList;
-        }
-
         private void TxtPayModeName_TextChanged(object sender, EventArgs e)
         {
 
@@ -86,6 +80,11 @@ namespace Supermarket_mvp.Views
         private void BtnEdit_Click(object sender, EventArgs e)
         {
 
+        }
+
+        public void SetPayModeListBildingSource(BindingSource payModeList)
+        {
+            DgPayMode.DataSource = payModeList;
         }
 
         public string PayModeIdd

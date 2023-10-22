@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TWsFjVHS4L0KJmYwEiIRpG/LUIgKfdczZczbmLD74DWeNPS4FAFna0hoSZuCC7hvbzzjhfnd2lTwzi4475RV6Q==",
+  "dgSpecHash": "7W0RqTZUI5o1diFdyf0xUjObJ7oVU5/1p5YqLMM5/juIRIS987AtcD5u+RyaG81ddkdE8PCB1rdtTdAS7xusHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\Supermarketmvp\\Supermarker-mvp\\Supermarker-mvp.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",

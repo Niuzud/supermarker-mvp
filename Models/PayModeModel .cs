@@ -26,5 +26,7 @@ namespace Supermarker_mvp.Models
 
         public string Observation { get; set; }
 
+    
+
     }
 }

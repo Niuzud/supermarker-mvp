@@ -32,7 +32,6 @@ namespace Supermarket_mvp.Views
 
 
 
-        void SetPayModeListBildingSource(Binding payModeList);
         void SetPayModeListBildingSource(BindingSource payModeBindingSource);
         void Show();
 

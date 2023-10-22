@@ -46,9 +46,17 @@ namespace Supermarket_mvp.Presenters
 
         private void SearchPayMode(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            bool emptyValue = string.IsNullOrWhiteSpace(this.view.SearchValue);
+            if(emptyValue==false)
+            {
+                payModeList = Repository.GetAll();
+            }
+            else
+            {
+                payModeList = Repository.GetAll();
+            }
+            payModeBindingSource.DataSource = payModeList;
         }
-
         private void AddNewPayMode(object? sender, EventArgs e)
         {
             throw new NotImplementedException();
